@@ -1,0 +1,43 @@
+service_type,year,payments_billions
+Home Health Agency (Part A),2018,6.8
+Home Health Agency (Part A),2019,6.7
+Home Health Agency (Part A),2020,6.29
+Home Health Agency (Part A),2021,6.11
+Home Health Agency (Part A),2022,5.91
+Home Health Agency (Part A),2023,5.87
+Home Health Agency (Part B),2018,11.13
+Home Health Agency (Part B),2019,11.16
+Home Health Agency (Part B),2020,10.79
+Home Health Agency (Part B),2021,10.77
+Home Health Agency (Part B),2022,10.25
+Home Health Agency (Part B),2023,9.99
+Hospice,2018,19.25
+Hospice,2019,20.9
+Hospice,2020,22.45
+Hospice,2021,23.07
+Hospice,2022,23.7
+Hospice,2023,25.67
+Inpatient Hospital,2018,137.0
+Inpatient Hospital,2019,138.53
+Inpatient Hospital,2020,130.16
+Inpatient Hospital,2021,131.32
+Inpatient Hospital,2022,127.74
+Inpatient Hospital,2023,126.95
+Outpatient Services,2018,77.76
+Outpatient Services,2019,81.02
+Outpatient Services,2020,74.81
+Outpatient Services,2021,80.25
+Outpatient Services,2022,81.99
+Outpatient Services,2023,83.78
+Physician and Other Medical,2018,109.93
+Physician and Other Medical,2019,114.81
+Physician and Other Medical,2020,106.55
+Physician and Other Medical,2021,117.39
+Physician and Other Medical,2022,116.41
+Physician and Other Medical,2023,126.34
+Skilled Nursing Facility,2018,27.65
+Skilled Nursing Facility,2019,27.13
+Skilled Nursing Facility,2020,28.55
+Skilled Nursing Facility,2021,27.22
+Skilled Nursing Facility,2022,29.01
+Skilled Nursing Facility,2023,27.28
