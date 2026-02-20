@@ -7,7 +7,7 @@ An exploratory data analysis of 2023 CMS Medicare Part A and Part B data
 to identify high-cost patient populations across geographic, demographic, 
 and clinical dimensions.
 
-**[View Interactive Tableau Dashboard](YOUR_TABLEAU_URL_HERE)**
+**[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/prabha.nayak3918/viz/MedicareHigh-CostPatientAnalysis2023/Dashboard1?publish=yes&showOnboarding=true)**
 
 ---
 
